@@ -1,4 +1,4 @@
-# N-Queens-Solver Live Link: https://n-queens-solver-one.vercel.app/
+# N-Queens-Solver [Live Link: https://n-queens-solver-one.vercel.app/]
 This project is an advanced implementation of the N-Queens problem solver.
 The N-Queens problem involves placing N chess queens on an N×N chessboard so that no two queens threaten each other. This application finds all possible solutions for a given number of queens and visually represents each solution on a dynamically generated chessboard.
 
