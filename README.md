@@ -1,4 +1,4 @@
-# N-Queen-Solver
+# N-Queens-Solver
 This project is an advanced implementation of the N-Queens problem solver.
 The N-Queens problem involves placing N chess queens on an N×N chessboard so that no two queens threaten each other. This application finds all possible solutions for a given number of queens and visually represents each solution on a dynamically generated chessboard.
 
@@ -14,7 +14,7 @@ The N-Queens problem involves placing N chess queens on an N×N chessboard so th
 
 # Getting Started
 1. Clone the repository:
-  * git clone https://github.com/YOUR_USERNAME/N-Queens-Solver.git
+  * git clone [https://github.com/YOUR_USERNAME/N-Queens-Solver.git](https://github.com/rahulkumar75/N-Queens-Solver.git)
 2. Open index.html in your browser to see the application in action.
 
 # Project Structure
