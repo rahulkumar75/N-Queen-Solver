@@ -14,11 +14,11 @@ The N-Queens problem involves placing N chess queens on an N×N chessboard so th
 
 # Getting Started
 1. Clone the repository:
-  * git clone [https://github.com/YOUR_USERNAME/N-Queens-Solver.git](https://github.com/rahulkumar75/N-Queens-Solver.git)
+  * git clone [https://github.com/YOUR_USERNAME/N-Queens-Solver.git]
 2. Open index.html in your browser to see the application in action.
 
 # Project Structure
-* index.html: The main HTML file containing the structure of the web page.
+* index.html: The main HTML file containing the web page's structure.
 * styles.css: The CSS file for styling the web page.
 * script.js: The JavaScript file containing the logic for solving the N-Queens problem and rendering the solutions.
 * queen.png: The image used to represent the queen on the chessboard.
